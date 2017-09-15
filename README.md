@@ -1,2 +1,0 @@
-# usbdriver
-Fantom USB Driver
